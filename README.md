@@ -25,7 +25,7 @@ Client (Flutter App / Telegram)
         │
         ▼
 ┌──────────────────────────────────────────────────────┐
-│                FastAPI  (api_server.py)               │
+│                FastAPI  (api_server.py)              │
 │                                                      │
 │  /api/chat ──► AIService ──► Gemini LLM              │
 │                    └──► RAG Pipeline ──► Vector DB   │
