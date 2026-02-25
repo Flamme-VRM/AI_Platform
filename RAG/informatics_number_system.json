@@ -1,0 +1,28 @@
+{
+  "id": "informatics_number_system_9",
+  "type": "informatics_exercise", 
+  "content": "Екілік санау жүйесінен он алтылық санау жүйесіне түрлендір: 1011100010",
+  "context": "Санау жүйелерін бір-біріне түрлендіру",
+  "subject": "информатика",
+  "topic": "санау жүйелері",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "7/40",
+  "question_id": "#9",
+  "options": [
+    "2E2",
+    "2F0",
+    "3B2", 
+    "1D4"
+  ],
+  "correct_answer": "2E2",
+  "solution_steps": [
+    "Екілік санды тетрадаларға бөлеміз: 10 1110 0010",
+    "Әр тетраданы он алтылыққа түрлендіреміз:",
+    "10₂ = 2₁₆",
+    "1110₂ = E₁₆", 
+    "0010₂ = 2₁₆",
+    "Нәтиже: 2E2"
+  ],
+  "language": "kk"
+}

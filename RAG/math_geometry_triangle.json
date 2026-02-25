@@ -1,0 +1,18 @@
+{
+  "id": "math_geometry_triangle_002", 
+  "type": "math_exercise",
+  "content": "Мәтінмені бар сұрақ: №22. Тік бұрышты үшбұрыштың катеттері 6 см және 8 см. Гипотенузасын табыңыз",
+  "context": "Пифагор теоремасы: c = √(a² + b²) = √(36 + 64) = √100 = 10 см",
+  "subject": "математика",
+  "topic": "геометрия", 
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "22/40",
+  "question_id": "#22",
+  "options": ["10 см", "12 см", "14 см", "9 см"],
+  "correct_answer": "10 см",
+  "formulas_used": ["c² = a² + b²"],
+  "key_concepts": ["Пифагор теоремасы"],
+  "estimated_time": 60,
+  "language": "kk"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "task_29_10cd",
+  "type": "math_exercise",
+  "content": "Мәтінмені бар сұрақ: №29. 843 санын Рим сандарымен қалай жазуға болады? Жауаптар: DCCCXLIII, DCCCXIII, CDXX, CDXXIII",
+  "context": "Арабское число в римские цифры. 843 = 500 + 300 + 40 + 3 = D + CCC + XL + III = DCCCXLIII",
+  "subject": "математика", 
+  "topic": "римские_цифры",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "29/40", 
+  "question_id": "#10cd",
+  "correct_answer": "DCCCXLIII",
+  "language": "kk"
+}

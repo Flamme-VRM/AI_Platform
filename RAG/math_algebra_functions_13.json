@@ -1,0 +1,22 @@
+{
+  "id": "math_algebra_functions_13",
+  "type": "math_exercise",
+  "content": "Кемімелі функцияны көрсетіңіз.",
+  "context": "Определение убывающей функции: если x₁ < x₂, то f(x₁) > f(x₂)",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "12/40",
+  "question_id": "#13",
+  "options": [
+    "y = 5^x - 3",
+    "y = -\\frac{5}{x}", 
+    "y = 4x + 0,5",
+    "y = log₂(4x - 5)"
+  ],
+  "correct_answer": "y = -\\frac{5}{x}",
+  "explanation": "Функция y = -5/x убывает на каждом из промежутков (-∞,0) и (0,∞)",
+  "key_concepts": ["показательная функция", "гиперболическая функция", "линейная функция", "логарифмическая функция"],
+  "language": "kk"
+}

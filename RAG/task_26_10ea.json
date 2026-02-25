@@ -1,0 +1,14 @@
+{
+  "id": "task_26_10ea", 
+  "type": "math_exercise",
+  "content": "Мәтінмені бар сұрақ: №26. (MMCCCXXXIII + XVII + MCD + DC) : L өрнегінің мәні. Жауаптар: 87, 76, 65, 97",
+  "context": "Римские цифры операции деление. MMCCCXXXIII = 2333, XVII = 17, MCD = 1400, DC = 600. Сумма = 4350. 4350 ÷ L(50) = 87",
+  "subject": "математика",
+  "topic": "римские_цифры",
+  "difficulty": "hard", 
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "25/40",
+  "question_id": "#10ea",
+  "correct_answer": "87",
+  "language": "kk"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "informatics_sql_12",
+  "type": "informatics_exercise",
+  "content": "Кестеде жасы көрсетілмеген студенттерді табу үшін дұрыс сұранысты таңдаңыз",
+  "context": "SQL сұраныстарында NULL мәндермен жұмыс",
+  "subject": "информатика",
+  "topic": "SQL", 
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "11/40",
+  "question_id": "#12",
+  "options": [
+    "SELECT * FROM students WHERE age = '';",
+    "SELECT * FROM students WHERE age NULL;",
+    "SELECT * FROM students WHERE age = 0;",
+    "SELECT * FROM students WHERE age IS NULL;"
+  ],
+  "correct_answer": "SELECT * FROM students WHERE age IS NULL;",
+  "solution_steps": [
+    "SQL-де жоқ мәндерді тексеру үшін IS NULL операторы қолданылады",
+    "= '' - бос жолды тексеру",
+    "age NULL - синтаксистік қате", 
+    "= 0 - нөлге теңдікті тексеру",
+    "IS NULL - NULL мәндерді дұрыс тексеру"
+  ],
+  "language": "kk"
+}

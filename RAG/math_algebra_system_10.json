@@ -1,0 +1,22 @@
+{
+  "id": "math_algebra_system_10",
+  "type": "math_exercise",
+  "content": "Теңдеулер жүйесін шешіңіз: \\[\\begin{cases} x - 3y = -20 \\\\ 5y - 2x = 25 \\end{cases}\\]",
+  "context": "Решение системы линейных уравнений методом подстановки или сложения",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "9/40",
+  "question_id": "#10",
+  "options": ["(10; 10)", "(-1; -5)", "(10; -3)", "(25; 15)"],
+  "correct_answer": "(25; 15)",
+  "solution_steps": [
+    "Из первого уравнения: x = 3y - 20",
+    "Подставляем во второе: 5y - 2(3y - 20) = 25",
+    "5y - 6y + 40 = 25",
+    "-y = -15 ⇒ y = 15",
+    "x = 3×15 - 20 = 45 - 20 = 25"
+  ],
+  "language": "kk"
+}

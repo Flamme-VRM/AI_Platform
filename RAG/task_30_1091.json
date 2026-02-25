@@ -1,0 +1,14 @@
+{
+  "id": "task_30_1091",
+  "type": "math_exercise",
+  "content": "Мәтінмені бар сұрақ: №30. MMMD + MCCC + CCXL + CDLXX өрнегінің мәні. Жауаптар: 4410, 5310, 4420, 5510",
+  "context": "Римские цифры сложение. MMMD = 3000, MCCC = 1300, CCXL = 240, CDLXX = 470. Сумма: 3000 + 1300 + 240 + 470 = 5010",
+  "subject": "математика",
+  "topic": "римские_цифры", 
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "29/40",
+  "question_id": "#1091",
+  "correct_answer": "5010",
+  "language": "kk"
+}

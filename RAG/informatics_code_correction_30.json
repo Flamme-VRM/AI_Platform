@@ -1,0 +1,22 @@
+{
+  "id": "informatics_code_correction_30",
+  "type": "programming_exercise",
+  "content": "Программа кодында дұрыс нәтиже шығаруы үшін дұрысталуы керек жолды көрсет",
+  "context": "Рекурсивті функцияны түзету. Негізгі қате: d = k % 100 орнына d = k % 10 болуы керек",
+  "code_snippet": "def R(k):\n    k = abs(k)\n    if k == 0:\n        return 0\n    d = k % 100  # ҚАТЕЛІ ЖОЛ\n    if d % 3 == 0 and d % 2 == 1:\n        return 1 + R(k // 10)\n    else:\n        return R(k // 10)",
+  "subject": "информатика",
+  "topic": "код_түзету",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "15/40",
+  "question_id": "#30",
+  "options": ["7", "6", "2", "5"],
+  "correct_answer": "5",
+  "solution_steps": [
+    "4-жолдағы d = k % 100 қате",
+    "Орнына d = k % 10 болуы керек",
+    "Себебі бір цифрды тексеру керек, екі емес",
+    "5-жолды түзету керек"
+  ],
+  "language": "kk"
+}

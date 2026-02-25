@@ -1,0 +1,20 @@
+{
+  "id": "math_calculus_derivative_22",
+  "type": "math_exercise",
+  "content": "\\[ y = \\log_2 (1 + x) \\] функциясының \\[ x_0 = 1 \\] нүктесіндегі туындысын табыңыз",
+  "context": "Производная логарифмической функции: (log_a u)' = u'/(u ln a)",
+  "subject": "математика",
+  "topic": "математический_анализ",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "21/40",
+  "question_id": "#22",
+  "options": ["ln 2", "\\frac{2}{\\ln 2}", "\\frac{1}{2 \\ln 2}", "\\frac{1}{\\ln 4}"],
+  "correct_answer": "\\frac{1}{2 \\ln 2}",
+  "solution_steps": [
+    "y' = (1/(1 + x)) × (1/ln 2)",
+    "y'(1) = (1/(1 + 1)) × (1/ln 2) = (1/2) × (1/ln 2) = 1/(2 ln 2)"
+  ],
+  "formulas_used": ["(log_a u)' = \\frac{u'}{u \\ln a}"],
+  "language": "kk"
+}

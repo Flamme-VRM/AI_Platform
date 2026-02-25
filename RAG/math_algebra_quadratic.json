@@ -1,0 +1,17 @@
+{
+  "id": "math_algebra_quadratic_001",
+  "type": "math_exercise",
+  "content": "Мәтінмені бар сұрақ: №15. x² - 5x + 6 = 0 теңдеуінің түбірлерін табыңыз",
+  "context": "Квадрат теңдеуді шешу: дискриминант D = b² - 4ac = 25 - 24 = 1, x₁ = (5+1)/2 = 3, x₂ = (5-1)/2 = 2",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "15/40",
+  "question_id": "#15",
+  "options": ["x=2, x=3", "x=1, x=6", "x=-2, x=-3", "x=0, x=5"],
+  "correct_answer": "x=2, x=3",
+  "formulas_used": ["D = b² - 4ac", "x = (-b ± √D)/2a"],
+  "estimated_time": 90,
+  "language": "kk"
+}

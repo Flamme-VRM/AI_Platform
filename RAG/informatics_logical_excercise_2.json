@@ -1,0 +1,28 @@
+{
+  "id": "informatics_logic_11",
+  "type": "informatics_exercise",
+  "content": "Схемаға сәйкес логикалық өрнекті тап",
+  "context": "Логикалық схемаларды өрнектерге түрлендіру",
+  "subject": "информатика",
+  "topic": "логика",
+  "difficulty": "hard",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "9/40", 
+  "question_id": "#11",
+  "options": [
+    "(¬A ∧ B) ∧ (A ∧ B)",
+    "(¬A ∧ B) ∨ (A ∧ ¬B)",
+    "(¬A ∨ B) ∧ (A ∨ ¬B)", 
+    "(¬A ∨ B) ∨ (A ∧ ¬B)"
+  ],
+  "correct_answer": "(¬A ∧ B) ∨ (A ∧ ¬B)",
+  "solution_steps": [
+    "Схемада екі жол бар: жоғарғы және төменгі",
+    "Жоғарғы жол: ¬A және B (AND қақпасы)",
+    "Төменгі жол: A және ¬B (AND қақпасы)", 
+    "Екі жолдың нәтижелері OR қақпасы арқылы қосылады",
+    "Соңғы өрнек: (¬A ∧ B) ∨ (A ∧ ¬B)",
+    "Бұл XOR операциясына сәйкес келеді"
+  ],
+  "language": "kk"
+}

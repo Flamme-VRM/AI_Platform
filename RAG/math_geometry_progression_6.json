@@ -1,0 +1,21 @@
+{
+  "id": "math_geometry_progression_6",
+  "type": "math_exercise",
+  "content": "Геометриялық прогрессияда  \\( q = 2 \\), \\( S_6 = 315 \\) болса, прогрессияның алтыншы мүшесін табыңыз.",
+  "context": "Геометрическая прогрессия: сумма первых n членов \\( S_n = \\\\frac{b_1(q^n - 1)}{q - 1} \\\\), n-й член \\( b_n = b_1 \\\\cdot q^{n-1} \\\\)",
+  "subject": "математика",
+  "topic": "геометрическая_прогрессия",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "6/40",
+  "question_id": "#6",
+  "options": ["100", "80", "-\\\\frac{315}{4}", "160"],
+  "correct_answer": "160",
+  "solution_steps": [
+    "\\( S_6 = \\\\frac{b_1(2^6 - 1)}{2 - 1} = \\\\frac{b_1 \\\\cdot 63}{1} = 315 \\\\)",
+    "\\( b_1 = \\\\frac{315}{63} = 5 \\\\)",
+    "\\( b_6 = b_1 \\\\cdot q^{5} = 5 \\\\cdot 32 = 160 \\\\)"
+  ],
+  "formulas_used": ["S_n = \\\\frac{b_1(q^n - 1)}{q - 1}", "b_n = b_1 \\\\cdot q^{n-1}"],
+  "language": "kk"
+}

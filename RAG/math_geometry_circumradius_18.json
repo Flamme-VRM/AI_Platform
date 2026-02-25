@@ -1,0 +1,25 @@
+{
+  "id": "math_geometry_circumradius_18",
+  "type": "math_exercise",
+  "content": "Үшбұрыштың бір бұрышы 45° және осы бұрышқа қарсы қабырғасы 2 см болса, үшбұрышқа сырттай сызылған шеңбер радиусы",
+  "context": "Теорема синусов: \\( \\\\frac{a}{\\\\sin A} = 2R \\), где R - радиус описанной окружности",
+  "subject": "математика",
+  "topic": "геометрия",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "18/40",
+  "question_id": "#18",
+  "options": ["8", "√2", "4√2", "2√2"],
+  "correct_answer": "√2",
+  "solution_steps": [
+    "По теореме синусов: \\( \\\\frac{a}{\\\\sin A} = 2R \\)",
+    "\\( \\\\frac{2}{\\\\sin 45°} = 2R \\)",
+    "\\( \\\\frac{2}{\\\\frac{√2}{2}} = 2R \\)",
+    "\\( 2 \\\\times \\\\frac{2}{√2} = 2R \\)",
+    "\\( \\\\frac{4}{√2} = 2R \\)",
+    "\\( 2√2 = 2R \\)",
+    "\\( R = √2 \\)"
+  ],
+  "formulas_used": ["\\\\frac{a}{\\\\sin A} = 2R"],
+  "language": "kk"
+}

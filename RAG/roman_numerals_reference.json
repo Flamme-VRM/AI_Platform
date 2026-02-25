@@ -1,0 +1,11 @@
+{
+  "id": "roman_numerals_reference",
+  "type": "reference_material",
+  "content": "Рим сандары таблицасы. 1-10: I=1, II=2, III=3, IV=4, V=5, VI=6, VII=7, VIII=8, IX=9, X=10. 11-20: XI=11, XII=12, XIII=13, XIV=14, XV=15, XVI=16, XVII=17, XVIII=18, XIX=19, XX=20. 21-100: XXI=21, XXII=22, XXX=30, XL=40, L=50, LX=60, LXX=70, LXXX=80, XC=90, C=100. 101-1000: CI=101, CC=200, CCC=300, CD=400, D=500, DC=600, DCC=700, DCCC=800, CM=900, M=1000",
+  "context": "Полная таблица римских цифр от 1 до 1000 с соответствующими арабскими числами. Используется для конвертации и вычислений с римскими числами.",
+  "subject": "математика",
+  "topic": "римские_цифры",
+  "type_detail": "conversion_table",
+  "source": "sts.jaryq-academy.kz", 
+  "language": "kk"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "informatics_sql_10",
+  "type": "informatics_exercise",
+  "content": "UPDATE 'a1' SET a2='a3' WHERE a4='a5' командасындағы даты кесте атауы",
+  "context": "SQL сұраныстарының синтаксисін білу",
+  "subject": "информатика", 
+  "topic": "SQL",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "9/40",
+  "question_id": "#10",
+  "options": [
+    "a1",
+    "a2",
+    "a4", 
+    "a3"
+  ],
+  "correct_answer": "a1",
+  "solution_steps": [
+    "UPDATE 'a1' SET a2='a3' WHERE a4='a5'",
+    "UPDATE операторында кесте аты бірінші келетін параметр",
+    "Бұл жағдайда 'a1' - кесте аты",
+    "a2 - баған аты, a3 - жаңа мән",
+    "a4 - шарт бағаны, a5 - шарт мәні"
+  ],
+  "language": "kk"
+}

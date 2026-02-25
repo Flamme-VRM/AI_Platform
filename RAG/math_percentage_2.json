@@ -1,0 +1,26 @@
+{
+  "id": "math_percentage_2", 
+  "type": "math_exercise",
+  "content": "А саны В санының қанша пайызы екенін есептейтін өрнек",
+  "context": "Пайыздық есептеулер",
+  "subject": "математика",
+  "topic": "пайыздар",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "1/10",
+  "question_id": "#2",
+  "options": [
+    "A/10B",
+    "A/100B", 
+    "100A/B",
+    "10A/B"
+  ],
+  "correct_answer": "100A/B",
+  "solution_steps": [
+    "А саны В санының пайызын табу үшін:",
+    "(А/В) × 100% формуласы қолданылады",
+    "Бұл 100A/B өрнегіне сәйкес келеді",
+    "Мысалы: А=20, В=80 болса, 100×20/80 = 25%"
+  ],
+  "language": "kk"
+}

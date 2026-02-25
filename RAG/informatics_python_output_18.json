@@ -1,0 +1,25 @@
+{
+  "id": "informatics_python_output_18",
+  "type": "programming_exercise",
+  "content": "Программа нәтижесін анықта: text = 'informatics' print('Үш таңбалы нақты сан: {:.5f}'.format(x)) print('{:.15}'.format(text.capitalize()))",
+  "context": "Python format() функциясының жұмысы: {:.5f} - 5 белгіге дейін дөңгелектеу, {:.15} - 15 символға дейін кесу, capitalize() - бірінші әріпті үлкен әріпке өзгерту",
+  "subject": "информатика",
+  "topic": "python_форматтау",
+  "difficulty": "medium", 
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "28/40",
+  "question_id": "#18",
+  "options": [
+    "Үш таңбалы нақты сан: 45.678",
+    "INFORMATICS", 
+    "Үш таңбалы нақты сан: 45.7",
+    "Informatics",
+    "Үш таңбалы нақты сан: 45.679", 
+    "Informatics",
+    "Үш таңбалы нақты сан: 45.6",
+    "Informatics"
+  ],
+  "correct_answer": "Informatics",
+  "explanation": "text.capitalize() 'informatics' сөзін 'Informatics' етіп өзгертеді. Бірінші әріп ғана үлкен әріп болады",
+  "language": "kk"
+}

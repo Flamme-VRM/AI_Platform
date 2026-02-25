@@ -1,0 +1,21 @@
+{
+  "id": "informatics_storage_devices_20",
+  "type": "multiple_choice",
+  "content": "Бұл ақпаратты сақтау үшін қолданылатын және бір тақтада орналасқан флэш жад микросхемаларының жиынтығы",
+  "context": "SSD (Solid State Drive) - бір тақтада орналасқан флэш жад чиптарынан тұратын қатты дисктің заманауи түрі",
+  "subject": "информатика", 
+  "topic": "ақпаратты_сақтау",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "31/40",
+  "question_id": "#20",
+  "options": ["SSD", "HDD", "CACHE", "ROM"],
+  "correct_answer": "SSD",
+  "key_concepts": {
+    "SSD": "флэш жад чиптары, жоғары жылдамдық",
+    "HDD": "механикалық дискілер, баяу жылдамдық", 
+    "CACHE": "уақытша жады, процессорға жақын",
+    "ROM": "тек оқуға болатын жады"
+  },
+  "language": "kk"
+}

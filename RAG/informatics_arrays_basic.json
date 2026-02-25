@@ -1,0 +1,17 @@
+{
+  "id": "informatics_arrays_003",
+  "type": "programming_exercise", 
+  "content": "Мәтінмені бар сұрақ: №18. Массивтегі элементтердің қосындысын есептейтін программа жаз. Массив: [2, 4, 6, 8, 10]",
+  "context": "Массив элементтерінің қосындысын есептеу алгоритмі",
+  "code_snippet": "arr = [2, 4, 6, 8, 10]\nsum = 0\nfor num in arr:\n    sum += num\nprint(sum)",
+  "subject": "информатика",
+  "topic": "массивтер",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "18/40", 
+  "question_id": "#18",
+  "correct_answer": "30",
+  "key_concepts": ["массив", "цикл", "аккумулятор"],
+  "common_mistakes": ["Индекстеу қателері", "Бастапқы мәнді ұмыту"],
+  "language": "kk"
+}

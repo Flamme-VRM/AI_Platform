@@ -1,0 +1,28 @@
+{
+  "id": "math_algebra_7",
+  "type": "math_exercise",
+  "content": "Егер \\( x - \\\\frac{3}{x} - 4 = 0 \\) болса, \\( x^2 + \\\\frac{9}{x^2} \\) өрнегінің мәні қаншаға тең екенін анықтаңыз.",
+  "context": "Алгебралық өрнектерді ықшамдау",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "6/10",
+  "question_id": "#7",
+  "options": [
+    "20",
+    "26",
+    "10",
+    "22"
+  ],
+  "correct_answer": "26",
+  "solution_steps": [
+    "Берілген теңдеу: \\( x - \\\\frac{3}{x} - 4 = 0 \\)",
+    "\\( x - \\\\frac{3}{x} = 4 \\)",
+    "Екі жағын квадраттаймыз: \\( (x - \\\\frac{3}{x})^2 = 4^2 \\)",
+    "\\( x^2 - 2 \\\\cdot x \\\\cdot \\\\frac{3}{x} + \\\\frac{9}{x^2} = 16 \\)",
+    "\\( x^2 - 6 + \\\\frac{9}{x^2} = 16 \\)",
+    "\\( x^2 + \\\\frac{9}{x^2} = 16 + 6 = 22 \\)"
+  ],
+  "language": "kk"
+}

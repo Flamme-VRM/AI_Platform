@@ -1,0 +1,26 @@
+{
+  "id": "math_algebra_inverse_19",
+  "type": "math_exercise",
+  "content": "\\( y = 2x - 1 \\) функциясының кері функциясын табыңыз",
+  "context": "Для нахождения обратной функции нужно выразить x через y, затем поменять переменные местами",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "18/40",
+  "question_id": "#19",
+  "options": [
+    "f⁻¹(x) = 0,5x + 1,5",
+    "f⁻¹(x) = 0,5x - 0,5", 
+    "f⁻¹(x) = 0,5x + 0,5",
+    "f⁻¹(x) = 0,5x - 1,5"
+  ],
+  "correct_answer": "f⁻¹(x) = 0,5x + 0,5",
+  "solution_steps": [
+    "y = 2x - 1",
+    "x = 2y - 1",
+    "2y = x + 1",
+    "y = (x + 1)/2 = 0,5x + 0,5"
+  ],
+  "language": "kk"
+}

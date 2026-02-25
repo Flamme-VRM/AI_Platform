@@ -1,0 +1,22 @@
+{
+  "id": "math_algebra_absolute_12",
+  "type": "math_exercise",
+  "content": "Теңдеудің нақты түбірлерін табыңыз: \\[|x^2 - x| = 6\\]",
+  "context": "Решение уравнения с модулем путем рассмотрения двух случаев",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "11/40",
+  "question_id": "#12",
+  "options": ["0; 5", "-2; 3", "-2; -1", "-4; 7"],
+  "correct_answer": "-2; 3",
+  "solution_steps": [
+    "Случай 1: x² - x = 6 ⇒ x² - x - 6 = 0",
+    "Дискриминант: D = 1 + 24 = 25",
+    "x = (1 ± 5)/2 ⇒ x₁ = 3, x₂ = -2",
+    "Случай 2: x² - x = -6 ⇒ x² - x + 6 = 0",
+    "D = 1 - 24 = -23 (нет действительных корней)"
+  ],
+  "language": "kk"
+}

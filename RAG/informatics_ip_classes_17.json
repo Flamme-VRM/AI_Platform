@@ -1,0 +1,16 @@
+{
+  "id": "informatics_ip_classes_17",
+  "type": "multiple_choice",
+  "content": "IP адрестің C класының бірінші биттері",
+  "context": "IP адрестер кластары: A (0...), B (10...), C (110...), D (1110...), E (1111...)",
+  "subject": "информатика", 
+  "topic": "желі_технологиялары",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "27/40",
+  "question_id": "#17",
+  "options": ["1110", "110", "10", "11110"],
+  "correct_answer": "110",
+  "explanation": "C класы IP адрестері 110 биттерінен басталады. Бұл 192.0.0.0 - 223.255.255.255 диапазонына сәйкес келеді",
+  "language": "kk"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "informatics_number_comparison_16",
+  "type": "math_exercise",
+  "content": "Сандарды кему ретімен орналастыр: a) 100110₂ b) 44₆ c) 2A₁₆ d) 45₁₀", 
+  "context": "Әртүрлі санау жүйелеріндегі сандарды ондық жүйеге аударып салыстыру керек",
+  "subject": "информатика",
+  "topic": "сан_жүйелері",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "27/40",
+  "question_id": "#16",
+  "options": [
+    "d, b, c, a",
+    "d, c, a, b", 
+    "c, d, a, b",
+    "c, d, b, a"
+  ],
+  "correct_answer": "c, d, b, a",
+  "solution_steps": [
+    "100110₂ = 32+4+2 = 38₁₀",
+    "44₆ = 4×6 + 4 = 28₁₀", 
+    "2A₁₆ = 2×16 + 10 = 42₁₀",
+    "45₁₀ = 45",
+    "Кему реті: 45, 42, 38, 28 → c, d, a, b"
+  ],
+  "language": "kk"
+}

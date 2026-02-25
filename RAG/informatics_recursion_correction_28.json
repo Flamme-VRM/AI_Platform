@@ -1,0 +1,28 @@
+{
+  "id": "informatics_recursion_correction_28",
+  "type": "programming_exercise",
+  "content": "Ішкі программаны қолданбай нәтижені шығару үшін дұрыс жұмыс істейтін нұсқаны табыңыз. n = 15639 болғанда нәтиже",
+  "context": "Бағдарлама санның 3-ке бөлінетін және тақ цифрларын санауы керек. Түпнұсқа кодтың қатесі: d = k % 100 (екі цифрды алады) орнына d = k % 10 (бір цифрды алу керек)",
+  "code_snippet": "def R(k):\n    k = abs(k)\n    if k == 0:\n        return 0\n    d = k % 100  # ҚАТЕ: екі цифр алынады\n    if d % 3 == 0 and d % 2 == 1:\n        return 1 + R(k // 10)\n    else:\n        return R(k // 10)",
+  "subject": "информатика",
+  "topic": "рекурсия",
+  "difficulty": "hard",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "13/40",
+  "question_id": "#28",
+  "options": [
+    "n = int(input())\nn = abs(n)\ncount = 0\nwhile n > 0:\n    d = n % 10\n    if d % 2 == 0:\n        count += 1\n    n //= 10\nprint(count)",
+    "n = int(input())\nn = abs(n)\ncount = 0\nwhile n > 0:\n    d = n % 10\n    if d % 3 == 0 and d % 2 == 1:\n        count += 1\n    n //= 10\nprint(count)",
+    "n = int(input())\nn = abs(n)\ncount = 0\nif n % 3 == 0 and n % 2 == 1:\n    count += 1\nprint(count)",
+    "n = int(input())\nn = abs(n)\ncount = 0\nwhile n > 0:\n    d = n % 100\n    if d % 3 == 0 and d % 2 == 1:\n        count += 1\n    n //= 10\nprint(count)"
+  ],
+  "correct_answer": 1,
+  "solution_steps": [
+    "Түпнұсқа кодтың қатесі: d = k % 100 - бұл екі цифрды алады",
+    "15639 санының цифрлары: 1,5,6,3,9",
+    "3-ке бөлінетін және тақ цифрлар: 3 және 9",
+    "Дұрыс жауап: 2 цифр",
+    "Екінші нұсқа дұрыс: әр цифрды бөлек тексереді"
+  ],
+  "language": "kk"
+}

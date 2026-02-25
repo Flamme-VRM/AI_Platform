@@ -1,0 +1,16 @@
+{
+  "id": "informatics_css_position_15",
+  "type": "multiple_choice", 
+  "content": "Элементтің тұрақты позициясын анықтайтын Position қасиеті",
+  "context": "CSS position қасиеті: static (әдепкі), relative (салыстырмалы), absolute (абсолютті), fixed (бекітілген), sticky (жабысқақ)",
+  "subject": "информатика",
+  "topic": "css_позициялау",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "26/40",
+  "question_id": "#15",
+  "options": ["Static", "Fixed", "Absolute", "Relative"],
+  "correct_answer": "Fixed", 
+  "explanation": "position: fixed - элемент экранға қатысты бекітілген позицияда болады, скроллдағанда да орнын өзгертпейді",
+  "language": "kk"
+}

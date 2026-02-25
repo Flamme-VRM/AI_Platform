@@ -1,0 +1,22 @@
+{
+  "id": "math_algebra_powers_14",
+  "type": "math_exercise",
+  "content": "Амалдарды орындаңыз: 81.3¹¹ / (27²)³",
+  "context": "Упрощение выражений со степенями с использованием свойств степеней",
+  "subject": "математика",
+  "topic": "алгебра",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "13/40",
+  "question_id": "#14",
+  "options": ["1/27", "2/7", "3", "1/9"],
+  "correct_answer": "1/9",
+  "solution_steps": [
+    "81 = 3⁴, 27 = 3³",
+    "81.3¹¹ = 3⁴ × 3¹¹ = 3¹⁵",
+    "(27²)³ = 27⁶ = (3³)⁶ = 3¹⁸", 
+    "3¹⁵ / 3¹⁸ = 3⁻³ = 1/27"
+  ],
+  "formulas_used": ["aᵐ × aⁿ = aᵐ⁺ⁿ", "(aᵐ)ⁿ = aᵐⁿ", "a⁻ⁿ = 1/aⁿ"],
+  "language": "kk"
+}

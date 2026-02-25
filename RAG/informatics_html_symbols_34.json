@@ -1,0 +1,17 @@
+{
+  "id": "informatics_html_symbols_34",
+  "type": "matching_question",
+  "content": "HTML-де жазылуы мен символды сәйкестендір: A) Градус белгісінің жазылуы: &deg B) Параграф белгісінің жазылуы: &quat",
+  "context": "HTML символдарын дұрыс жазу форматын білу қажет. Градус белгісі &deg;, параграф белгісі &para;",
+  "subject": "информатика",
+  "topic": "html_символдары",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "19/40",
+  "question_id": "#34",
+  "matching_pairs": {
+    "Градус белгісі": "&deg;",
+    "Параграф белгісі": "&para;"
+  },
+  "language": "kk"
+}

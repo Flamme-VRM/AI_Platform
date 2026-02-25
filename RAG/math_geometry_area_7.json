@@ -1,0 +1,16 @@
+{
+  "id": "math_geometry_area_7",
+  "type": "math_exercise",
+  "content": "Суреттегі боялған бөліктің ауданын табыңыз",
+  "context": "Задача на вычисление площади закрашенной области геометрической фигуры",
+  "subject": "математика",
+  "topic": "геометрия",
+  "difficulty": "medium",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "6/40",
+  "question_id": "#7",
+  "options": ["10 кв.бірлік", "6 кв.бірлік", "8 кв.бірлік", "12 кв.бірлік"],
+  "correct_answer": "8 кв.бірлік",
+  "estimated_time": 120,
+  "language": "kk"
+}

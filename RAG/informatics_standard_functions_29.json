@@ -1,0 +1,16 @@
+{
+  "id": "informatics_standard_functions_29",
+  "type": "multiple_choice",
+  "content": "Программада қолданылған стандартты функция атауы",
+  "context": "Python тіліндегі стандартты функцияларды тану. abs() - санның модулін қайтаратын стандартты функция",
+  "subject": "информатика",
+  "topic": "python_функциялары",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "14/40",
+  "question_id": "#29",
+  "options": ["abs", "return", "R", "Def"],
+  "correct_answer": "abs",
+  "key_concepts": ["стандартты функция", "пайдаланушы функциясы", "күштеу сөздер"],
+  "language": "kk"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "informatics_python_functions_35",
+  "type": "matching_question",
+  "content": "Python программалау тіліндегі функция мен қызметін сәйкестендір",
+  "context": "Python тіліндегі стандартты функциялардың дұрыс мағынасын білу қажет",
+  "subject": "информатика",
+  "topic": "python_функциялары",
+  "difficulty": "easy",
+  "source": "jaryq-academy.kz",
+  "lesson_progress": "20/40",
+  "question_id": "#35",
+  "matching_pairs": {
+    "pow()": "Дәрежеге шығару функциясы",
+    "round()": "Санды дөңгелектеу функциясы", 
+    "abs()": "Санның модулін есептеу",
+    "len()": "Объект ұзындығын алу"
+  },
+  "common_mistakes": {
+    "pow()": "Квадрат түбір емес, дәрежеге шығару"
+  },
+  "language": "kk"
+}
